@@ -216,13 +216,3 @@ npm start
 * Cloud Deployment
 
 ---
-
-# Advantages
-
-* Faster identity verification
-* Reduced manual workload
-* Improved campus security
-* Centralized management system
-* Integrated library services
-
----
